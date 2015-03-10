@@ -1,0 +1,15 @@
+GIT
+  remote: git://github.com/platphorm/telegram_rb.git
+  revision: 0fbea50971bb3fa2484878e39477ed3c6249f2c3
+  specs:
+    telegram_rb (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  telegram_rb!
